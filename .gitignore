@@ -1,0 +1,8 @@
+*.ovr
+data/custom_test/*
+data/mass_patches/image/*
+data/mass_patches/label/*
+data/predictions/*
+.idea/
+paths/*
+trained_models/*
